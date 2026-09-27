@@ -16,3 +16,6 @@ This Git-ready AWS-only set was organized from the AWS materials already shared 
 - `AWS_Last_Minute_Quick_Revision_Updated.pdf`
 
 The package intentionally reorganizes the material by AWS topic for Git/GitHub study use rather than reproducing the original files as-is.
+
+
+Expanded repository sections were added from the same AWS practical/revision material and the hands-on topics practiced in this learning thread.

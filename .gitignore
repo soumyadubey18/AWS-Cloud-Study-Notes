@@ -1,0 +1,17 @@
+# AWS credentials and secrets
+.aws/
+*.pem
+*.ppk
+*.key
+credentials
+config
+*.tfstate
+*.tfstate.*
+*.tfvars
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
